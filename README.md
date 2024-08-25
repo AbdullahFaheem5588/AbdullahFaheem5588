@@ -3,24 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahFaheem5588&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahFaheem5588" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/abdullahfaheem02/" target="blank"><img src="https://img.shields.io/twitter/follow/AbdullahFaheem?logo=twitter&style=for-the-badge" alt="AbdullahFaheem" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working as a Full Stack React Developer at <a href="https://sprinsoft.com/" target="blank">SprinSoft</a>
-
 - 🌱 I’m currently working on cross-platform mobile apps with React Native and building dynamic web applications with React.js
-
 - 🤝 I’m available for freelancing and collaboration opportunities.
-
 - 🌱 I’m currently learning advanced TypeScript techniques and exploring new React Native features.
-
 - 💬 Ask me about React.js, React Native, TypeScript, and API Integration
-
 - 📫 How to reach me: [abdullah@example.com](mailto:abdullah@example.com)
-
 - 📄 Know about my experiences and projects on my [Resume](https://abdullahfaheem5588.github.io/My-Resume/Abdullah%20Faheem%20Resume.pdf)
 
 <br/>
@@ -39,6 +31,23 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.fiverr.com/s/kL5BqqW">
             <img src="https://img.icons8.com/?size=40&id=ngc6JsBomclm&format=png&color=000000" alt="Fiverr"></a>
     </div>
+</p>
+
+<h3 align="center">My GitHub Stats 📈</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahFaheem5588&show_icons=true&theme=radical" alt="Abdullah Faheem's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahFaheem5588&theme=radical" alt="Abdullah Faheem's GitHub Streak" />
+</p>
+
+<h3 align="center">Languages and Tools 🛠️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React.js-React-blue?style=for-the-badge&logo=react" alt="React.js" />
+  <img src="https://img.shields.io/badge/React_Native-React%20Native-blue?style=for-the-badge&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/Firebase-Real%20Time%20Database-yellow?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GraphQL-API%20Integration-blue?style=for-the-badge&logo=graphql" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Redux-State%20Management-blue?style=for-the-badge&logo=redux" alt="Redux" />
 </p>
 
 Credit: Abdullah Faheem
