@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Full Stack React Developer at <a href="www.innspirovatetech.com" target="blank">Innspirovate Tech</a>
+- 🔭 I’m currently working as a Full Stack React Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
 - 🌱 I’m currently working on cross-platform mobile apps with React Native and building dynamic web applications with React.js
 - 🤝 I’m available for freelancing and collaboration opportunities.
 - 🌱 I’m currently learning advanced TypeScript techniques and exploring new React Native features.
