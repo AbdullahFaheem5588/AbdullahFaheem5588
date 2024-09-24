@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AbdullahFaheem5588" target="blank">Abdullah Faheem</a></h1>
-<h3 align="center">A passionate Full Stack React Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Full Stack React & React-Native Developer from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahFaheem5588&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahFaheem5588" /> </p>
 
@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Full Stack React Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
+- 🔭 I’m currently working as a Co-Founder & Full Stack React & React-Native Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
 - 🌱 I’m currently working on cross-platform mobile apps with React Native and building dynamic web applications with React.js
 - 🤝 I’m available for freelancing and collaboration opportunities.
 - 🌱 I’m currently learning advanced TypeScript techniques and exploring new React Native features.
