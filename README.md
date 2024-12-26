@@ -36,7 +36,6 @@
 <h3 align="center">My GitHub Stats 📈</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahFaheem5588&layout=compact&cache_seconds=86400" alt="Languages Used" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahFaheem5588&show_icons=true&locale=en" alt="Abdullah Faheem Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahFaheem5588&theme=radical" alt="Abdullah Faheem's GitHub Streak" />
 </p>
 
