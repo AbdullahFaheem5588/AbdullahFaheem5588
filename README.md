@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AbdullahFaheem5588" target="blank">Abdullah Faheem</a></h1>
-<h3 align="center">A passionate MERN Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahFaheem5588&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahFaheem5588" /> </p>
 
