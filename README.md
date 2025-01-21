@@ -7,11 +7,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Co-Founder & Full Stack React & React-Native Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
+- 🔭 I’m currently working as a Co-Founder & MERN Stack Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
 - 🌱 I’m currently working on cross-platform mobile apps with React Native and building dynamic web applications with React.js
 - 🤝 I’m available for freelancing and collaboration opportunities.
 - 🌱 I’m currently learning advanced TypeScript techniques, Node Js API development and exploring new React Native features.
-- 💬 Ask me about React.js, React Native, TypeScript, and API Integration
+- 💬 Ask me about React.js, React Native, TypeScript, and Node.js
 - 📫 How to reach me: [abdullahfaheem@innspirovatetech.com](mailto:abdullahfaheem@innspirovatetech.com)
 - 📄 Know about my experiences and projects on my [Resume](https://abdullahfaheem5588.github.io/My-Resume/Abdullah%20Faheem%20Resume.pdf)
 
